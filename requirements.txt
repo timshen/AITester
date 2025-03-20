@@ -1,0 +1,7 @@
+streamlit
+requests
+pandas
+scikit-learn
+json-repair
+PyPDF2
+uuid
